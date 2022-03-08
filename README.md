@@ -2,7 +2,7 @@
 <h3 align="center">~ trying to figure out blockchains ~</h3>
 
 - :hammer_and_wrench: I’m currently working on [Blockchain New Zealand's education content](https://blockchain.org.nz/) ([repo](https://github.com/millecodex/BlockchainNZ_education))
-- 🌱 I’m currently learning volatility analysis, blockchain development, DeFi, data (mining|vis|analysis), ...
+- 🌱 I’m currently learning volatility analysis, MEV, blockchain development, DeFi, data (mining|vis|analysis), ...
 - :handshake: I’m always looking to collaborate on blockchain research
 
 ### Connect with me:
