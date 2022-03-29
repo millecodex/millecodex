@@ -1,6 +1,4 @@
 # Kia Ora 👋, I'm Jeff
-<h3 align="center">~ trying to figure out blockchains ~</h3>
-
 - :hammer_and_wrench: I’m currently working on [Blockchain New Zealand's education content](https://blockchain.org.nz/) ([repo](https://github.com/millecodex/BlockchainNZ_education))
 - 🌱 I’m currently learning volatility analysis, MEV, blockchain development, DeFi, data (mining|vis|analysis), ...
 - :handshake: I’m always looking to collaborate on blockchain research
@@ -12,7 +10,7 @@
 ### My top three emojies are:
 ### :neckbeard: `:neckbeard:`, :derelict_house: `:derelict_house:`, and :cowboy_hat_face: `:cowboy_hat_face:`; (no `:bitcoin:` yet)
 
-### I'm not a dev, but here are some trophies:
+### 🏆 I'm not a dev, but here are some trophies: 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=millecodex&margin-w=15&no-bg=true&no-frame=true" alt="millecodex" /></a> </p>
 
 ### Languages and Tools:
