@@ -2,6 +2,7 @@
 - :hammer_and_wrench: I’m currently working on [Blockchain New Zealand's education content](https://blockchain.org.nz/) ([repo](https://github.com/millecodex/BlockchainNZ_education))
 - 🌱 I’m currently learning structural equation modelling in relation to open source software health, volatility analysis, MEV, blockchain development, DeFi, data (mining|vis|analysis), ...
 - :handshake: I’m always looking to collaborate on blockchain research
+- :studio_microphone: I host the [Blockchain NZ Podcast](https://podcast.blockchain.org.nz/)
 
 ### Connect with me:
 - 📫 Find me on twitter at [@japple](https://twitter.com/japple)
