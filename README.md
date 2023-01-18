@@ -1,6 +1,6 @@
 # Kia Ora 👋, I'm Jeff
 - :hammer_and_wrench: I’m currently working on [Blockchain New Zealand's](https://blockchain.org.nz/) education content ([repo](https://github.com/millecodex/BlockchainNZ_education))
-- 🌱 I’m currently learning structural equation modelling in relation to open source software health, volatility analysis, MEV, blockchain development, DeFi, data (mining|vis|analysis), ...
+- 🌱 I’m currently learning structural equation modelling in relation to open source software health, blockchain development, data (mining|vis|analysis), ...
 - :handshake: I’m always looking to collaborate on blockchain research
 - :studio_microphone: I host the [Blockchain NZ Podcast](https://podcast.blockchain.org.nz/)
 
@@ -9,7 +9,7 @@
 - :nerd_face: I also have an [Academic page](https://academics.aut.ac.nz/jeff.nijsse) :mortar_board:
 
 ### My top three emojies are:
-### :neckbeard: `:neckbeard:`, :derelict_house: `:derelict_house:`, and :cowboy_hat_face: `:cowboy_hat_face:`; (no `:bitcoin:` yet)
+### :neckbeard: `:neckbeard:`, :derelict_house: `:derelict_house:`, and :cowboy_hat_face: `:cowboy_hat_face:`; (no `:bitcoin:` yet) 
 
 ### 🏆 I'm not a dev, but here are some trophies: 
 <p align="left"><a href="https://github.com/millecodex/decarepo"><img src="https://github-profile-trophy.vercel.app/?username=millecodex&margin-w=15&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Repositories,PullRequest,Stars,Followers" alt="millecodex' github trophies" /></a></p>
