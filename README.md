@@ -1,6 +1,6 @@
 # Kia Ora 👋, I'm Jeff
-- :hammer_and_wrench: I’m currently working on [Blockchain New Zealand's](https://blockchain.org.nz/) education content ([repo](https://github.com/millecodex/BlockchainNZ_education))
-- 🌱 I’m currently learning structural equation modelling in relation to open source software health, blockchain development, data (mining|vis|analysis), ...
+- :hammer_and_wrench: I’m currently finishing a PhD in Computer Science
+- 🌱 I’m learning structural equation modelling (statistical analysis) in relation to open source software health, blockchain development, data (mining|vis|analysis), ...
 - :handshake: I’m always looking to collaborate on blockchain research
 - :studio_microphone: I host the [Blockchain NZ Podcast](https://podcast.blockchain.org.nz/)
 
