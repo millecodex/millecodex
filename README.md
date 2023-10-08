@@ -1,11 +1,12 @@
 # Kia Ora 👋, I'm Jeff
-- :hammer_and_wrench: I’m currently finishing a PhD in Computer Science
-- 🌱 I’m learning structural equation modelling (statistical analysis) in relation to open source software health, blockchain development, data (mining|vis|analysis), ...
+- :hammer_and_wrench: I’ve recently submitted a PhD in Computer Science
+- 💻 I'm a blockchain and distributed systems researchers interested in statistical modelling, open source software, blockchain development, data (mining|vis|analysis|engineering|science), ...
 - :handshake: I’m always looking to collaborate on blockchain research
+- 📝 I teach Blockchain and Cryptocurrency Technology ([repo](https://github.com/millecodex/COMP726))
 - :studio_microphone: I host the [Blockchain NZ Podcast](https://podcast.blockchain.org.nz/)
 
 ### Connect with me:
-- 📫 Find me on twitter at [@japple](https://twitter.com/japple)
+- 📫 Find me on X at [@japple](https://x.com/japple)
 - :nerd_face: I also have an [Academic page](https://academics.aut.ac.nz/jeff.nijsse) :mortar_board:
 
 ### My top three emojies are:
