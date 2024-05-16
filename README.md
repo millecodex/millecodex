@@ -1,6 +1,5 @@
 # Kia Ora 👋, I'm Jeff
-- :hammer_and_wrench: In 2023 I finished a [PhD](https://github.com/millecodex/phd) in Computer Science focussing on Blockchain Consensus and Software Health
-- 💻 I'm a blockchain and distributed systems researchers interested in statistical modelling, open source software, blockchain development, data (mining|vis|analysis|engineering|science), ...
+- 💻 I'm a blockchain and distributed systems researcher interested in statistical modelling, open source software, blockchain development, privacy & zero-knowledge, and so on...
 - :handshake: I’m always looking to collaborate on blockchain research
 - 📝 I teach Blockchain and Cryptocurrency Technology ([repo](https://github.com/millecodex/COMP842))
 - :studio_microphone: I host the [Blockchain NZ Podcast](https://podcast.blockchain.org.nz/)
