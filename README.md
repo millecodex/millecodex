@@ -6,7 +6,7 @@
 
 ### Connect with me:
 - 📫 Find me on X at [@japple](https://x.com/japple)
-- :nerd_face: I also have an [Academic page](https://academics.aut.ac.nz/jeff.nijsse) :mortar_board:
+- :nerd_face: I also have an [Academic page](https://academics.rmit.edu.au/jeff-nijsse) :mortar_board:
 
 ### My top three emojies are:
 ### :neckbeard: `:neckbeard:`, :derelict_house: `:derelict_house:`, and :cowboy_hat_face: `:cowboy_hat_face:`; (no `:bitcoin:` yet) 
