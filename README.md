@@ -2,7 +2,7 @@
 - 💻 I'm a blockchain and distributed systems researcher interested in statistical modelling, open source software, blockchain development, privacy & zero-knowledge, and so on...
 - :handshake: I’m always looking to collaborate on blockchain research
 - 📝 I teach Blockchain and Cryptocurrency Technology ([repo](https://github.com/millecodex/COMP842))
-- :studio_microphone: I host the [Blockchain NZ Podcast](https://podcast.blockchain.org.nz/)
+- :studio_microphone: I hosted the [Blockchain NZ Podcast](https://podcast.blockchain.org.nz/)
 
 ### Connect with me:
 - 📫 Find me on X at [@japple](https://x.com/japple)
