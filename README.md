@@ -1,7 +1,7 @@
 # Kia Ora 👋, I'm Jeff
 - 💻 I'm a blockchain and distributed systems researcher interested in statistical modelling, open source software, anomaly detection, privacy & zero-knowledge, etc...
 - :handshake: I’m always looking to collaborate on blockchain research
-- 📝 I teach Blockchain and Cryptocurrency Technology ([repo](https://github.com/millecodex/COMP842))
+- 📝 I teach Blockchain and Cryptocurrency Technology ([repo](https://github.com/millecodex/blockchains101))
 - :studio_microphone: Prev. I hosted the [Blockchain NZ Podcast](https://podcast.blockchain.org.nz/)
 - :rocket: Prev. had a go at rocket science
 
