@@ -10,7 +10,10 @@
 - :nerd_face: I also have an [Academic page](https://academics.rmit.edu.au/jeff-nijsse) :mortar_board:
 
 ### My top three emojies are:
-### :neckbeard: `:neckbeard:`, :derelict_house: `:derelict_house:`, and :cowboy_hat_face: `:cowboy_hat_face:`; (no `:bitcoin:` yet) 
+- 1. :neckbeard: `:neckbeard:`,
+- 2. :derelict_house: `:derelict_house:`, and
+- 3. :cowboy_hat_face: `:cowboy_hat_face:`
+- 4. (no `:bitcoin:` yet)
 
 ### 🏆 I'm not a dev, but here are some trophies: 
 <p align="left"><a href="https://github.com/millecodex/decarepo"><img src="https://github-profile-trophy.vercel.app/?username=millecodex&margin-w=15&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Repositories,PullRequest,Stars,Followers" alt="millecodex' github trophies" /></a></p>
